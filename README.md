@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OutcomeMeter, powered by Ingenious AI, provides a cost‑per‑successful‑outcome measurement platform for AI‑driven applications. Users can connect their own provider API keys, run free demos, and view real‑time outcome‑based spend analytics. The service offers free and paid plans, detailed pricing, and comprehensive privacy and terms documentation, all hosted on its own domain.
+OutcomeMeter, powered by Ingenious AI, offers agencies a platform to measure cost per successful AI outcome. It connects to provider API keys, aggregates real spend data, and delivers per‑client cost reports. The service includes a free tier, paid plans with detailed pricing, and comprehensive documentation covering terms, privacy, and usage guides, all hosted on its own domain.
 
 **Areas:** AI · Analytics · Cost-Management · Outcome-Measurement · SaaS
 
@@ -72,16 +72,97 @@ OutcomeMeter, powered by Ingenious AI, provides a cost‑per‑successful‑outc
 
 Everything profiled for OutcomeMeter (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/outcomemeter-getingeniousai-com/](https://apis.io/providers/outcomemeter-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [OutcomeMeter (Ingenious AI) API](https://apis.io/apis/outcomemeter-getingeniousai-com/outcomemeter-getingeniousai-com-api/) — OutcomeMeter (Ingenious AI) API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-11-17); not the…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostApiEventsRequest](https://apis.io/schemas/outcomemeter-getingeniousai-com/outcomemeter-getingeniousai-com-post-api-events-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Outcomemeter Getingeniousai Com Context](https://apis.io/jsonld/outcomemeter-getingeniousai-com/outcomemeter-getingeniousai-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [OutcomeMeter (Ingenious AI) API Rules](https://apis.io/rules/outcomemeter-getingeniousai-com/outcomemeter-getingeniousai-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [OutcomeMeter (Ingenious AI) Domain Security](https://apis.io/security/outcomemeter-getingeniousai-com/outcomemeter-getingeniousai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [OutcomeMeter (Ingenious AI) Plans Pricing](https://apis.io/plans/outcomemeter-getingeniousai-com/outcomemeter-getingeniousai-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://outcomemeter.getingeniousai.com)
 - [Documentation](https://outcomemeter.getingeniousai.com/openapi.json)
+- [Pricing](https://outcomemeter.getingeniousai.com/pricing)
+- [Terms of service](https://outcomemeter.getingeniousai.com/terms)
+- [Privacy policy](https://outcomemeter.getingeniousai.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/outcomemeter-getingeniousai-com/](https://apis.io/providers/outcomemeter-getingeniousai-com/).
+**Kin Score 43.6** — developing · rubric 0.27.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 40.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 73.2 |
+
+**Agent readiness 24.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | verified |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/outcomemeter-getingeniousai-com/](https://apis.io/providers/outcomemeter-getingeniousai-com/).
 
 ## How this profile is made
 
